@@ -8,7 +8,7 @@ First, the algorithm is going to select only active fire with a confidence over 
 
 
 ## Quality control 
-In the Brazilian Amazon over the 2003 to 2020 period, the algorithm retained 80% of the observation. Without detailled analysis, we wanted to see if the proportions of filtered fire were constant across time and space to understand how it could distord further analysis based on these data. 
+In the Brazilian Amazon over the 2003 to 2020 period, the algorithm retained approximetaly 73% of the observation. Without detailled analysis, we wanted to see if the proportions of filtered fire were constant across time and space to understand how it could distord further analysis based on these data. 
 
 ![image](https://user-images.githubusercontent.com/84012797/125195171-cb3f8500-e254-11eb-8650-c11281607f49.png)
 
