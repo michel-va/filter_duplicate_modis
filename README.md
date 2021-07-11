@@ -8,26 +8,23 @@ First, the algorithm is going to select only active fire with a confidence over 
 
 
 ## Quality control 
-In the Brazilian Amazon over the 2003 to 2020 period, the algorithm retained approximetaly 73% of the observation. Without detailled analysis, we wanted to see if the proportions of filtered fire were constant across time and space to understand how it could distord further analysis based on these data. 
+In the Brazilian Amazon over the 2003 to 2020 period, the algorithm retained approximetaly 73% of the observation. Without detailled analysis, we wanted to see if the proportions of filtered fire were constant across time and space to understand how it could distord further analysis based on these data. It seem that the percentage of fire filtered by the algorithm vary among years and months, with the lowest proportions of fires retained over years with many fires. When mapping the percentage of fire retained, we can see that the south-eastern border of the Amazon (with frequent agricultural fires) tend to have lower proportions of fires retained. 
 
 ![image](https://user-images.githubusercontent.com/84012797/125208621-fa291b80-e293-11eb-959d-f810aee3fc46.png)
-
-
 
 *Proportions of fire retained by the algorithm over years*
 
 ![image](https://user-images.githubusercontent.com/84012797/125208702-6dcb2880-e294-11eb-8514-5936bd32d0f2.png)
 
-
 *Proportions of fire retained by the algorithm over years*
 
+![image](https://user-images.githubusercontent.com/84012797/125209250-da93f200-e297-11eb-823d-003da9c5a949.png)
+
+*Proportions of fire retained according to then umber of fire detection over the year 
 
 ![image](https://user-images.githubusercontent.com/84012797/125209232-bfc17d80-e297-11eb-9230-8b17f44e836f.png)
 
 *Raster showing the proportions of fires retained across 2003-2020 period in the Brazilian Amazon*
 
-![image](https://user-images.githubusercontent.com/84012797/125209250-da93f200-e297-11eb-823d-003da9c5a949.png)
-
-*Proportions of fire retained according to then umber of fire detection over the year 
 ## Credit
 Repository developped and wrote by Michel Valette and Evangeline Wilby
