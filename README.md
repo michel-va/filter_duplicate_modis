@@ -11,15 +11,18 @@ First, the algorithm is going to select only active fire with a confidence over 
 In the Brazilian Amazon over the 2003 to 2020 period, the algorithm retained 80% of the observation. Without detailled analysis, we wanted to see if the proportions of filtered fire were constant across time and space to understand how it could distord further analysis based on these data. 
 
 ![image](https://user-images.githubusercontent.com/84012797/125195171-cb3f8500-e254-11eb-8650-c11281607f49.png)
+
 *proportions of fire retained by the algorithm over years*
 
 
 
 ![image](https://user-images.githubusercontent.com/84012797/125196164-0d6ac580-e259-11eb-9b2d-24ea10486e3e.png)
+
 *proportions of fire retained by the algorithm over years*
 
 
 ![image](https://user-images.githubusercontent.com/84012797/125196178-21162c00-e259-11eb-917c-1e5fa567bae6.png)
+
 *Raster showing the proportions of fires retained across 2003-2020 period in the Brazilian Amazon*
 ## Credit
 Repository developped and wrote by Michel Valette and Evangeline Wilby
