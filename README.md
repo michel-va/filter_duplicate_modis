@@ -19,7 +19,7 @@ In the Brazilian Amazon over the 2003 to 2020 period, the algorithm retained app
 
 ![image](https://user-images.githubusercontent.com/84012797/125209250-da93f200-e297-11eb-823d-003da9c5a949.png)
 
-*Proportions of fire retained according to then umber of fire detection over the year* 
+*Proportions of fire retained according to the number of fire detection over the year* 
 
 ![image](https://user-images.githubusercontent.com/84012797/125209232-bfc17d80-e297-11eb-9230-8b17f44e836f.png)
 
